@@ -1,5 +1,3 @@
-<h2 align="center">Social ERP/CRM</h2>
-
 <div align="center">
 <img width="200" src="https://avatars.githubusercontent.com/u/125568791?s=200&v=4"></img>
 </div>
