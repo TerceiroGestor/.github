@@ -1,5 +1,9 @@
 <h2 align="center">Social ERP/CRM</h2>
-<img src="./img/logo.png"></img>
+
+<div align="center">
+<img width="350" src="./img/logo.png"></img>
+</div>
+
 <h6>Descrição do projeto:</h6>
 <p align="justify">
 Um sistema de gestão focado no terceiro setor, automatizando seus processos de gestão e transparência. 
