@@ -298,8 +298,8 @@ As Organizaçãos da Sociedade Civil (OSC), o Estado e a Sociedade Civil.
   <li>UX: <a href="https://www.linkedin.com/in/jessikatayza/">Jéssika Mendes</a>, <a href="https://www.linkedin.com/in/diogocassel/">DiogoCassel</a></li>
   <li>Frontend: <a href="https://www.linkedin.com/in/brunos-brito/">Bruno Brito</a>, <a href="https://www.linkedin.com/in/daniel-nogueira-496813222/">Daniel Nogueira</a></li>
   <li>Backend: <a href="https://www.linkedin.com/in/wevertoncamposdev/">Weverton Campos</a>, <a href="https://www.linkedin.com/in/evel-ortega-74a390224/">Evel Ortega</a></li>
-  <li>DevOps:<a href="https://www.linkedin.com/in/lucas-nascimento-32722b160/">Lucas Nascimento</a></li>
-  <li>Data:<a href="https://www.linkedin.com/in/thalis-ruan-b8a199130/">Thalis Ruan</a></li>
+  <li>DevOps: <a href="https://www.linkedin.com/in/lucas-nascimento-32722b160/">Lucas Nascimento</a></li>
+  <li>Data: <a href="https://www.linkedin.com/in/thalis-ruan-b8a199130/">Thalis Ruan</a></li>
  
 </ul> 
 
