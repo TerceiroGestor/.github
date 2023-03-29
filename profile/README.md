@@ -293,7 +293,8 @@ As Organizaçãos da Sociedade Civil (OSC), o Estado e a Sociedade Civil.
 <ul>
   <li>Mentor: <a href="https://www.linkedin.com/in/fellipyferreira">Fellipy Ferreira</a></li>
   <li>Responsável: <a href="https://www.linkedin.com/in/wevertoncamposdev/">Weverton Campos</a></li>
-  <li>Product Manager: <a href="https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/">Igor Revelles de Mello</a></li>
+  <li>Product Manager: <a href="https://www.linkedin.com/in/igor-revelles-de-mello-b3266a39/">Igor Revelles de Mello</a>, <a href="https://www.linkedin.com/in/camilaochoap/">Camila Ochoa Piriz</a></li>
+  <li>Agilista: <a href="https://www.linkedin.com/in/beatriz-ribeiroo/">Beatriz Ribeiro</a>
   <li>UX: <a href="https://www.linkedin.com/in/jessikatayza/">Jéssika Mendes</a>, <a href="https://www.linkedin.com/in/diogocassel/">DiogoCassel</a></li>
   <li>Frontend: <a href="https://www.linkedin.com/in/brunos-brito/">Bruno Brito</a>, <a href="https://www.linkedin.com/in/daniel-nogueira-496813222/">Daniel Nogueira</a></li>
   <li>Backend: <a href="https://www.linkedin.com/in/wevertoncamposdev/">Weverton Campos</a>, <a href="https://www.linkedin.com/in/evel-ortega-74a390224/">Evel Ortega</a></li>
