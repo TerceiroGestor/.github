@@ -87,6 +87,6 @@ npm run start:dev
 Organizações da sociedade civil (OSCs) frequentemente não têm ferramentas acessíveis para acompanhar sua gestão do início ao fim — da abertura à prestação de contas exigida pelo Marco Regulatório do Terceiro Setor (MROSC, Lei 13.019/2014). O Terceiro Gestor nasce para preencher essa lacuna, oferecendo recursos gratuitos e centralizando dados sociais públicos que ajudam OSCs, Estado e sociedade civil a tomar decisões melhor embasadas.
 
 ## Autor
-
+<img src="https://github.com/wevertoncamposdev.png" width="70" style="border-radius:50%" />
 **Weverton Campos** — Desenvolvedor Backend (Node.js • NestJS • TypeScript)
 [GitHub](https://github.com/wevertoncamposdev) · [LinkedIn](https://www.linkedin.com/in/wevertoncamposdev)
